@@ -23,7 +23,7 @@
 ### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sivakotireddy45/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sivakotireddy45/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sivakoti4004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://portfolio-app-three-tau.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivakotireddy45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sivakotireddy45&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sivakotireddy45&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sivakotireddy45&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakotireddy45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakotireddy45&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="50%"/>
 </p>
 
 ---
@@ -57,4 +57,4 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and drop a ⭐ if something inspires you!
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and leave a ⭐ if you like my work!
