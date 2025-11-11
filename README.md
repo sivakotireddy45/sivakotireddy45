@@ -15,7 +15,7 @@
 - 💻 Love working with **Java**, **React.js**, and **Node.js**  
 - 🔗 Check out my projects: [Portfolio Website](https://portfolio-app-three-tau.vercel.app/)  
 - 📫 Reach me at **sivakoti4004@gmail.com**  
-- 📄 Know more about my experiences: [My Resume](https://drive.google.com/file/d/15WztJjGZpZJOxdn4nX5bbo7wB4fF9FZQ/view?usp=drive_link)  
+- 📄 Know more about my experiences: [My Resume]([https://drive.google.com/file/d/15WztJjGZpZJOxdn4nX5bbo7wB4fF9FZQ/view?usp=drive_link](https://drive.google.com/file/d/170_W6Z1haIJ5I9bHRxNVCRgW6ZxAiexk/view?usp=sharing))  
 - ⚡ Fun fact: *I believe hard work beats talent when talent doesn’t work hard!*  
 
 ---
